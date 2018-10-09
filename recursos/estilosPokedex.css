@@ -1,0 +1,11 @@
+#fondoImagen{
+	background-image: url("fondo.png");
+	background-size: 100%;
+}
+p{
+	background-color:rgba(0, 0, 0,0.5);/*genera un fondo traslucido*/
+	/*text-transform: uppercase;/*transforma texto en mayuscula*/
+	color: white;
+	width:50%;
+	height:50%;
+}
